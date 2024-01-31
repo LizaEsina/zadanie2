@@ -11,8 +11,14 @@
     <Button
         android:id="@+id/button"
         android:layout_width="257dp"
+<<<<<<< HEAD
         android:layout_height="45dp"
         android:text="Add new card"
+=======
+        android:layout_height="48dp"
+        android:text="Add new card"
+        tools:ignore="MissingConstraints"
+>>>>>>> ca30383 (Разметка для карточки)
         tools:layout_editor_absoluteX="97dp"
         tools:layout_editor_absoluteY="673dp" />
 
@@ -24,7 +30,12 @@
         android:text="Your Card Number"
         android:textAlignment="gravity"
         tools:layout_editor_absoluteX="34dp"
+<<<<<<< HEAD
         tools:layout_editor_absoluteY="404dp" />
+=======
+        tools:layout_editor_absoluteY="404dp"
+        tools:ignore="MissingConstraints" />
+>>>>>>> ca30383 (Разметка для карточки)
 
     <TextView
         android:id="@+id/textView5"
@@ -32,7 +43,12 @@
         android:layout_height="wrap_content"
         android:text="Name on card"
         tools:layout_editor_absoluteX="42dp"
+<<<<<<< HEAD
         tools:layout_editor_absoluteY="282dp" />
+=======
+        tools:layout_editor_absoluteY="282dp"
+        tools:ignore="MissingConstraints" />
+>>>>>>> ca30383 (Разметка для карточки)
 
     <TextView
         android:id="@+id/textView7"
@@ -40,7 +56,12 @@
         android:layout_height="wrap_content"
         android:text="Card number"
         tools:layout_editor_absoluteX="42dp"
+<<<<<<< HEAD
         tools:layout_editor_absoluteY="366dp" />
+=======
+        tools:layout_editor_absoluteY="366dp"
+        tools:ignore="MissingConstraints" />
+>>>>>>> ca30383 (Разметка для карточки)
 
     <TextView
         android:id="@+id/textView4"
@@ -50,7 +71,12 @@
         android:text="Your Name"
         android:textAlignment="gravity"
         tools:layout_editor_absoluteX="32dp"
+<<<<<<< HEAD
         tools:layout_editor_absoluteY="311dp" />
+=======
+        tools:layout_editor_absoluteY="311dp"
+        tools:ignore="MissingConstraints" />
+>>>>>>> ca30383 (Разметка для карточки)
 
     <TextView
         android:id="@+id/textView6"
@@ -58,13 +84,23 @@
         android:layout_height="wrap_content"
         android:text="Exp Date"
         tools:layout_editor_absoluteX="42dp"
+<<<<<<< HEAD
         tools:layout_editor_absoluteY="461dp" />
+=======
+        tools:layout_editor_absoluteY="461dp"
+        tools:ignore="MissingConstraints" />
+>>>>>>> ca30383 (Разметка для карточки)
 
     <androidx.gridlayout.widget.GridLayout
         android:layout_width="389dp"
         android:layout_height="38dp"
         tools:layout_editor_absoluteX="32dp"
+<<<<<<< HEAD
         tools:layout_editor_absoluteY="496dp">
+=======
+        tools:layout_editor_absoluteY="496dp"
+        tools:ignore="MissingConstraints">
+>>>>>>> ca30383 (Разметка для карточки)
 
         <TextView
             android:id="@+id/textView"
@@ -94,13 +130,23 @@
         android:background="@drawable/rounded_corner"
         android:text="TextView"
         tools:layout_editor_absoluteX="58dp"
+<<<<<<< HEAD
         tools:layout_editor_absoluteY="80dp" />
+=======
+        tools:layout_editor_absoluteY="80dp"
+        tools:ignore="MissingConstraints" />
+>>>>>>> ca30383 (Разметка для карточки)
 
     <androidx.gridlayout.widget.GridLayout
         android:layout_width="273dp"
         android:layout_height="59dp"
         tools:layout_editor_absoluteX="81dp"
+<<<<<<< HEAD
         tools:layout_editor_absoluteY="165dp">
+=======
+        tools:layout_editor_absoluteY="165dp"
+        tools:ignore="MissingConstraints">
+>>>>>>> ca30383 (Разметка для карточки)
 
         <TextView
             android:id="@+id/textView16"
@@ -138,7 +184,12 @@
         android:layout_width="270dp"
         android:layout_height="52dp"
         tools:layout_editor_absoluteX="84dp"
+<<<<<<< HEAD
         tools:layout_editor_absoluteY="94dp">
+=======
+        tools:layout_editor_absoluteY="94dp"
+        tools:ignore="MissingConstraints">
+>>>>>>> ca30383 (Разметка для карточки)
 
         <TextView
             android:id="@+id/textView10"
@@ -186,6 +237,11 @@
         android:textSize="20sp"
         android:textStyle="bold"
         tools:layout_editor_absoluteX="161dp"
+<<<<<<< HEAD
         tools:layout_editor_absoluteY="16dp" />
+=======
+        tools:layout_editor_absoluteY="16dp"
+        tools:ignore="MissingConstraints" />
+>>>>>>> ca30383 (Разметка для карточки)
 
 </androidx.constraintlayout.widget.ConstraintLayout>
